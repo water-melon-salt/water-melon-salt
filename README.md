@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @water-melon-salt
-- 👀 I’m interested in learning some basics - just got into coding
+- 👀 I’m interested in learning some basics - super new to coding!
 - 🌱 I’m currently learning Python and some basic VBA
 - ⚡ Fun fact: I own several rubberducks - so I feel well prepared.
 
